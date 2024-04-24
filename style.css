@@ -1,0 +1,25 @@
+:root { 
+    --main-hear-color:linear-gradient(45deg,#ef971e,#ffbc6a);
+    --main-red:#c71212;
+    --negro:#232323;
+    --blanco: #fff;
+    --font-family: 'Arial', sans-serif;
+}
+
+body{
+background-color: rgb(189, 189, 189);
+}
+
+
+header{
+    background-color: turquoise;
+    color: var(--blanco);
+    text-align: center;
+    padding: 30px;
+}
+
+.contenedor{
+    max-width: 1200px;
+    margin: 300px;
+    margin-left: 650px;
+}
